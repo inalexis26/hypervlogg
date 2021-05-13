@@ -15,5 +15,15 @@ body {
     width: 70%;
     padding: 1rem;
     border: 1px solid black;
+
+    
+}
+
+.cabecera {
+    background-color: brown;
+    margin-bottom: 2 rem;
+    color: white;
+    font-size: 2rem;
+    padding: 1rem;
     
 }
