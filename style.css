@@ -27,3 +27,8 @@ body {
     padding: 1rem;
     
 }
+.footer {
+    background-color: yellowgreen;
+    color: white;
+    padding: 2rem;
+}
